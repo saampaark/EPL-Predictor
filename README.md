@@ -1,4 +1,5 @@
 # English Premier League Football Predictor ⚽ 
+A Predictor for EPL matches.
 
 ## Project Goals 🎯
 - Predict Match Outcomes: Using historical data, player statistics, and other features to forecast match results.
